@@ -1,5 +1,9 @@
-Shopping cart using Vue and Vuex
+Shopping cart using Vue and Vuex. 
+If the item is already exist in cart then it will just update the quantity else new item will be added to cart.
+Same for removing the item from cart.
 
+Note:
 	1. clone the project from github (https://github.com/MariaAloysius25/ShoppingCart.git)
 	2. install the node modules as i have not uploaded the node modules in my git repository
 	3. you run the project either in GUI or from command 
+
